@@ -1,57 +1,17 @@
 {
     "products": [
         {
-            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x60) (Bulk Box)",
-            "price": "US$\u00c2\u00a0420.00",
-            "weight": "Wholesale Unit Weight: 10,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
-            "quantity": 6,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Revive Eye Serum (x60) (Bulk Box)",
-            "price": "US$\u00c2\u00a0477.00",
-            "weight": "Wholesale Unit Weight: 3,360g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
+            "name": "{{item.name}}",
+            "price": "",
+            "weight": "Wholesale Unit Weight: {{item.unitWeight}}",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/79/707/M_p0182570779.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "AXIS - Y - Vegan Collagen Eye Serum (x200) (Bulk Box)",
-            "price": "US$\u00c2\u00a01,545.00",
-            "weight": "Wholesale Unit Weight: 7,800g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "TIRTIR - Mask Fit Red Cushion - 40 Colors (x20) (Bulk Box)",
-            "price": "US$\u00c2\u00a0255.00",
-            "weight": "Wholesale Unit Weight: 2,100g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/01/507/M_p0203550701.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "medicube - PDRN Pink Peptide Serum (x80) (Bulk Box)",
-            "price": "US$\u00c2\u00a0635.00",
-            "weight": "Wholesale Unit Weight: 11,440g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/51/200/M_p0210620051.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 21 days"
-        },
-        {
-            "name": "Cellpure - Vail Powder SPF 31 PA+++ (x24) (Bulk Box)",
-            "price": "US$\u00c2\u00a0510.00",
-            "weight": "Wholesale Unit Weight: 1,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/23/206/M_p0214720623.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 21 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "89.62kg",
-        "Ex_shipping": "US$\u00c2\u00a0767.50",
-        "St_shipping": "US$\u00c2\u00a0946.50"
+        "bag_weight": "62.27kg",
+        "Ex_shipping": "US$\u00c2\u00a0508.50",
+        "St_shipping": "US$\u00c2\u00a0663.00"
     }
 }
