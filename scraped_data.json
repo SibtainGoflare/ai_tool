@@ -1,14 +1,5 @@
 {
-    "products": [
-        {
-            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x60) (Bulk Box)",
-            "price": "US$\u00c2\u00a0420.00",
-            "weight": "Wholesale Unit Weight: 10,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
-            "quantity": 6,
-            "availability": "Usually ships within 1 to 2 days"
-        }
-    ],
+    "products": [],
     "bag_details": {
         "bag_weight": "89.62kg",
         "Ex_shipping": "US$\u00c2\u00a0767.50",
