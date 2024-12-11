@@ -1,17 +1,33 @@
 {
     "products": [
         {
-            "name": "{{item.name}}",
-            "price": "",
-            "weight": "Wholesale Unit Weight: {{item.unitWeight}}",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/11/813/M_p0056481311.jpg",
-            "quantity": 68,
+            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0420.00",
+            "weight": "Wholesale Unit Weight: 10,560g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
+            "quantity": 6,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "medicube - PDRN Pink Peptide Serum (x80) (Bulk Box)",
+            "price": "US$\u00c2\u00a0635.00",
+            "weight": "Wholesale Unit Weight: 11,440g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Cellpure - Vail Powder SPF 31 PA+++ (x24) (Bulk Box)",
+            "price": "US$\u00c2\u00a0510.00",
+            "weight": "Wholesale Unit Weight: 1,560g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
+            "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "15.05kg",
-        "Ex_shipping": "US$\u00c2\u00a0347.00",
-        "St_shipping": ""
+        "bag_weight": "89.62kg",
+        "Ex_shipping": "US$\u00c2\u00a0767.50",
+        "St_shipping": "US$\u00c2\u00a0946.50"
     }
 }
