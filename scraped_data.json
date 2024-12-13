@@ -1,25 +1,89 @@
 {
     "products": [
         {
-            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x60) (Bulk Box)",
-            "price": "US$\u00c2\u00a0420.00",
-            "weight": "Wholesale Unit Weight: 10,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
+            "name": "COSRX - Salicylic Acid Daily Gentle Cleanser (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0240.00",
+            "weight": "Wholesale Unit Weight: 10,440g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/91/704/M_p0161870491.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "TIRTIR - Mask Fit Red Cushion - 40 Colors (x20) (Bulk Box)",
-            "price": "US$\u00c2\u00a0255.00",
-            "weight": "Wholesale Unit Weight: 2,100g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/01/507/M_p0203550701.jpg",
+            "name": "COSRX - Aloe Soothing Sun Cream (x48) (Bulk Box)",
+            "price": "US$\u00c2\u00a0264.00",
+            "weight": "Wholesale Unit Weight: 3,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/03/678/M_p0161867803.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Low pH Good Morning Gel Cleanser (x42) (Bulk Box)",
+            "price": "US$\u00c2\u00a0175.00",
+            "weight": "Wholesale Unit Weight: 7,602g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/97/073/M_p0160007397.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - BHA Blackhead Power Liquid (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0460.00",
+            "weight": "Wholesale Unit Weight: 10,560g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/43/599/M_p0173259943.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum (x100) (Bulk Box)",
+            "price": "US$\u00c2\u00a0655.00",
+            "weight": "Wholesale Unit Weight: 8,000g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/70/954/M_p0183695470.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Daily Purifying Treatment Toner (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0525.00",
+            "weight": "Wholesale Unit Weight: 17,220g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/79/954/M_p0183695479.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Acne Pimple Master Patch (x1500) (Bulk Box)",
+            "price": "US$\u00c2\u00a02,215.00",
+            "weight": "Wholesale Unit Weight: 10,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/62/187/M_p0183618762.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Quinoa One Step Balanced Gel Cleanser (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0445.00",
+            "weight": "Wholesale Unit Weight: 14,820g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/69/728/M_p0184272869.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Complete No-Stress Physical Sunscreen (V3) (x100) (Bulk Box)",
+            "price": "US$\u00c2\u00a0725.00",
+            "weight": "Wholesale Unit Weight: 8,000g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/63/408/M_p0191940863.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x30) (Bulk Box)",
+            "price": "US$\u00c2\u00a0218.00",
+            "weight": "Wholesale Unit Weight: 5,280g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/389/M_p0196338902.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "12.66kg",
-        "Ex_shipping": "US$\u00c2\u00a0108.50",
-        "St_shipping": "US$\u00c2\u00a0138.00"
+        "bag_weight": "96.022kg",
+        "Ex_shipping": "US$\u00c2\u00a0827.00",
+        "St_shipping": "US$\u00c2\u00a01,020.00"
     }
 }
