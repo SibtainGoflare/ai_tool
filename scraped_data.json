@@ -1,17 +1,89 @@
 {
     "products": [
         {
-            "name": "{{item.name}}",
-            "price": "",
-            "weight": "Wholesale Unit Weight: {{item.unitWeight}}",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/07/812/M_p0056481207.jpg",
-            "quantity": 200,
+            "name": "Isntree - Hyaluronic Acid Watery Sun Gel (x50) (Bulk Box)",
+            "price": "US$\u00c2\u00a0392.00",
+            "weight": "Wholesale Unit Weight: 3,950g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/70/636/M_p0173863670.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Isntree - Hyaluronic Acid Airy Sun Stick (x72) (Bulk Box)",
+            "price": "US$\u00c2\u00a0668.16",
+            "weight": "Wholesale Unit Weight: 4,320g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/79/726/M_p0174472679.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Isntree - Hyaluronic Acid Toner (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0340.80",
+            "weight": "Wholesale Unit Weight: 15,060g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/43/301/M_p0174930143.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Relief Sun (x20) (Bulk Box)",
+            "price": "US$\u00c2\u00a0168.00",
+            "weight": "Wholesale Unit Weight: 1,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/18/337/M_p0184633718.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Revive Eye Serum (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0477.00",
+            "weight": "Wholesale Unit Weight: 3,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Artichoke Intensive Skin Barrier Ampoule (x80) (Bulk Box)",
+            "price": "US$\u00c2\u00a0590.00",
+            "weight": "Wholesale Unit Weight: 11,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/78/954/M_p0183695478.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Isntree - Hyaluronic Acid Aqua Gel Cream (x60) (Bulk Box)",
+            "price": "US$\u00c2\u00a0427.20",
+            "weight": "Wholesale Unit Weight: 8,160g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/83/329/M_p0182832983.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - AHA, BHA, PHA 30 Days Miracle Toner 150ml (x50) (Bulk Box)",
+            "price": "US$\u00c2\u00a0415.00",
+            "weight": "Wholesale Unit Weight: 10,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/67/331/M_p0207333167.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - AHA, BHA, PHA 30 Days Miracle Cream 60g (x100) (Bulk Box)",
+            "price": "US$\u00c2\u00a0970.00",
+            "weight": "Wholesale Unit Weight: 13,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/20/107/M_p0210010720.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Vegan Collagen Eye Serum (x200) (Bulk Box)",
+            "price": "US$\u00c2\u00a01,545.00",
+            "weight": "Wholesale Unit Weight: 7,800g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
+            "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "165.096kg",
-        "Ex_shipping": "US$\u00c2\u00a03,572.00",
-        "St_shipping": ""
+        "bag_weight": "79.41kg",
+        "Ex_shipping": "US$\u00c2\u00a0682.50",
+        "St_shipping": "US$\u00c2\u00a0841.50"
     }
 }
