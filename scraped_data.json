@@ -4,14 +4,14 @@
             "name": "{{item.name}}",
             "price": "",
             "weight": "Wholesale Unit Weight: {{item.unitWeight}}",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/79/707/M_p0182570779.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "21.06kg",
-        "Ex_shipping": "US$\u00c2\u00a0189.50",
-        "St_shipping": "US$\u00c2\u00a0232.50"
+        "bag_weight": "62.27kg",
+        "Ex_shipping": "US$\u00c2\u00a0508.50",
+        "St_shipping": "US$\u00c2\u00a0663.00"
     }
 }
