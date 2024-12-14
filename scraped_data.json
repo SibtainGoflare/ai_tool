@@ -1,49 +1,17 @@
 {
     "products": [
         {
-            "name": "COSRX - Advanced Snail 92 All In One Cream (x60) (Bulk Box)",
-            "price": "US$\u00c2\u00a0475.00",
-            "weight": "Wholesale Unit Weight: 10,500g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/82/253/M_p0183625382.jpg",
-            "quantity": 4,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "haruharu wonder - Black Rice Moisture Deep Cleansing Oil (x20) (Bulk Box)",
-            "price": "US$\u00c2\u00a0135.33",
-            "weight": "Wholesale Unit Weight: 3,920g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/73/895/M_p0212689573.jpg",
-            "quantity": 6,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "COSRX - Acne Pimple Master Patch (x1500) (Bulk Box)",
-            "price": "US$\u00c2\u00a02,215.00",
-            "weight": "Wholesale Unit Weight: 10,500g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/62/187/M_p0183618762.jpg",
+            "name": "{{item.name}}",
+            "price": "",
+            "weight": "Wholesale Unit Weight: {{item.unitWeight}}",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x30) (Bulk Box)",
-            "price": "US$\u00c2\u00a0218.00",
-            "weight": "Wholesale Unit Weight: 5,280g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/389/M_p0196338902.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "medicube - Collagen Night Wrapping Mask (x80) (Bulk Box)",
-            "price": "US$\u00c2\u00a0775.00",
-            "weight": "Wholesale Unit Weight: 7,200g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/23/419/M_p0199541923.jpg",
-            "quantity": 6,
-            "availability": "Usually ships within 21 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "124.5kg",
-        "Ex_shipping": "US$\u00c2\u00a01,065.00",
-        "St_shipping": "US$\u00c2\u00a01,314.00"
+        "bag_weight": "21.06kg",
+        "Ex_shipping": "US$\u00c2\u00a0189.50",
+        "St_shipping": "US$\u00c2\u00a0232.50"
     }
 }
