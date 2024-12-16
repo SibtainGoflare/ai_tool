@@ -1,49 +1,33 @@
 {
     "products": [
         {
-            "name": "COSRX - Advanced Snail 92 All In One Cream (x60) (Bulk Box)",
-            "price": "US$&nbsp;475.00",
-            "weight": "10,500g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/82/253/M_p0183625382.jpg",
-            "quantity": 4,
+            "name": "Anua - Heartleaf Pore Control Cleansing Oil (x48) (Bulk Box)",
+            "price": "US$&nbsp;320.00",
+            "weight": "11,424g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/13/126/M_p0206012613.jpg",
+            "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "haruharu wonder - Black Rice Moisture Deep Cleansing Oil (x20) (Bulk Box)",
-            "price": "US$&nbsp;135.33",
-            "weight": "3,920g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/73/895/M_p0212689573.jpg",
-            "quantity": 6,
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum Mini",
+            "price": "US$&nbsp;1.39",
+            "weight": "9g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/90/148/M_p0206614890.jpg",
+            "quantity": 199,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "COSRX - Acne Pimple Master Patch (x1500) (Bulk Box)",
-            "price": "US$&nbsp;2,215.00",
-            "weight": "10,500g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/62/187/M_p0183618762.jpg",
+            "name": "medicube - Deep Vita C Capsule Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;635.00",
+            "weight": "12,720g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/96/148/M_p0210614896.png",
             "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x30) (Bulk Box)",
-            "price": "US$&nbsp;218.00",
-            "weight": "5,280g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/389/M_p0196338902.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "medicube - Collagen Night Wrapping Mask (x80) (Bulk Box)",
-            "price": "US$&nbsp;775.00",
-            "weight": "7,200g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/23/419/M_p0199541923.jpg",
-            "quantity": 6,
             "availability": "Usually ships within 21 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "124.5kg",
-        "Ex_shipping": "US$\u00c2\u00a01,065.00",
-        "St_shipping": "US$\u00c2\u00a01,314.00"
+        "bag_weight": "37.359kg",
+        "Ex_shipping": "US$\u00c2\u00a0325.50",
+        "St_shipping": "US$\u00c2\u00a0400.50"
     }
 }
