@@ -1,105 +1,33 @@
 {
     "products": [
         {
-            "name": "Beauty of Joseon - Revive Serum (x20) (Bulk Box)",
-            "price": "US$&nbsp;159.00",
-            "weight": "1,520g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/79/707/M_p0182570779.jpg",
-            "quantity": 1,
+            "name": "Anua - Heartleaf Pore Control Cleansing Oil (x48) (Bulk Box)",
+            "price": "US$&nbsp;320.00",
+            "weight": "11,424g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/13/126/M_p0206012613.jpg",
+            "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Beauty of Joseon - Glow Deep Serum (x20) (Bulk Box)",
-            "price": "US$&nbsp;159.00",
-            "weight": "1,460g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/55/889/M_p0184588955.jpg",
-            "quantity": 1,
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum Mini",
+            "price": "US$&nbsp;1.39",
+            "weight": "9g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/90/148/M_p0206614890.jpg",
+            "quantity": 199,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Beauty of Joseon - Ginseng Essence Water (x20) (Bulk Box)",
-            "price": "US$&nbsp;171.00",
-            "weight": "5,140g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/87/577/M_p0184557787.jpg",
+            "name": "medicube - Deep Vita C Capsule Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;635.00",
+            "weight": "12,720g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/96/148/M_p0210614896.png",
             "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Revive Eye Serum (x60) (Bulk Box)",
-            "price": "US$&nbsp;477.00",
-            "weight": "3,360g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Calming Serum (x20) (Bulk Box)",
-            "price": "US$&nbsp;159.00",
-            "weight": "1,600g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/06/828/M_p0187982806.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Red Bean Water Gel (x20) (Bulk Box)",
-            "price": "US$&nbsp;169.00",
-            "weight": "2,800g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/28/347/M_p0184534728.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Green Plum Refreshing Toner: AHA + BHA (x40) (Bulk Box)",
-            "price": "US$&nbsp;330.00",
-            "weight": "10,640g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/85/349/M_p0207034985.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Ginseng Cleansing Oil (x40) (Bulk Box)",
-            "price": "US$&nbsp;365.00",
-            "weight": "10,600g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/88/349/M_p0207034988.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Glow Replenishing Rice Milk (x40) (Bulk Box)",
-            "price": "US$&nbsp;330.00",
-            "weight": "10,720g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/20/119/M_p0208911920.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Ginseng Moist Sun Serum (x40) (Bulk Box)",
-            "price": "US$&nbsp;394.00",
-            "weight": "4,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/41/658/M_p0198165841.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Green Plum Refreshing Cleanser (x60) (Bulk Box)",
-            "price": "US$&nbsp;355.00",
-            "weight": "7,860g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/98/651/M_p0214165198.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Apricot Blossom Peeling Gel (x15) (Bulk Box)",
-            "price": "US$&nbsp;89.00",
-            "weight": "2,010g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/14/652/M_p0214165214.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
+            "availability": "Usually ships within 21 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "62.27kg",
-        "Ex_shipping": "US$\u00c2\u00a0508.50",
-        "St_shipping": "US$\u00c2\u00a0663.00"
+        "bag_weight": "37.359kg",
+        "Ex_shipping": "US$\u00c2\u00a0325.50",
+        "St_shipping": "US$\u00c2\u00a0400.50"
     }
 }
