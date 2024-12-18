@@ -1,49 +1,33 @@
 {
     "products": [
         {
-            "name": "haruharu wonder - Black Rice Moisture 5.5 Soft Cleansing Gel (x56) (Bulk Box)",
-            "price": "US$&nbsp;243.58",
-            "weight": "7,560g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/49/591/M_p0184559149.jpg",
-            "quantity": 1,
+            "name": "Anua - Heartleaf Pore Control Cleansing Oil (x48) (Bulk Box)",
+            "price": "US$&nbsp;320.00",
+            "weight": "11,424g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/13/126/M_p0206012613.jpg",
+            "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Isntree - Ultra-Low Molecular Hyaluronic Acid Serum (x60) (Bulk Box)",
-            "price": "US$&nbsp;350.00",
-            "weight": "6,660g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/63/452/M_p0188245263.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 21 days"
-        },
-        {
-            "name": "Anua - Niacinamide 10% + TXA 4% Serum",
-            "price": "US$&nbsp;10.93",
-            "weight": "144g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/58/430/M_p0202543058.jpg",
-            "quantity": 35,
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum Mini",
+            "price": "US$&nbsp;1.39",
+            "weight": "9g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/90/148/M_p0206614890.jpg",
+            "quantity": 199,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "medicube - Collagen Glow Booster Serum (x100) (Bulk Box)",
-            "price": "US$&nbsp;835.00",
-            "weight": "6,500g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/26/532/M_p0209253226.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Pyunkang Yul - Nutrition Cream (x80) (Bulk Box)",
-            "price": "US$&nbsp;940.00",
-            "weight": "20,000g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/70/310/M_p0213831070.jpg",
+            "name": "medicube - Deep Vita C Capsule Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;635.00",
+            "weight": "12,720g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/96/148/M_p0210614896.png",
             "quantity": 1,
             "availability": "Usually ships within 21 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "45.76kg",
-        "Ex_shipping": "US$\u00c2\u00a0393.50",
-        "St_shipping": "US$\u00c2\u00a0484.50"
+        "bag_weight": "37.359kg",
+        "Ex_shipping": "US$\u00c2\u00a0325.50",
+        "St_shipping": "US$\u00c2\u00a0400.50"
     }
 }
