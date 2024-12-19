@@ -1,18 +1,98 @@
 {
     "products": [
         {
-            "name": "Anua - Heartleaf 77% Soothing Toner (x20) (Bulk Box)",
-            "price": "US$&nbsp;170.00",
-            "weight": "6,340g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/55/625/M_p0200862555.jpg",
+            "name": "SOME BY MI - Super Matcha Pore Care Starter Kit",
+            "price": "US$&nbsp;10.27",
+            "weight": "221g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/76/469/M_p0146346976.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Truecica Mineral Calming Tone-Up Suncream",
+            "price": "US$&nbsp;8.74",
+            "weight": "87g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/07/329/M_p0207832907.jpg",
+            "quantity": 100,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Salicylic Acid Daily Gentle Cleanser (x60) (Bulk Box)",
+            "price": "US$&nbsp;240.00",
+            "weight": "10,440g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/91/704/M_p0161870491.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Beauty of Joseon - Relief Sun (x20) (Bulk Box)",
-            "price": "US$&nbsp;168.00",
-            "weight": "1,400g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/18/337/M_p0184633718.jpg",
+            "name": "COSRX - Low pH Good Morning Gel Cleanser (x42) (Bulk Box)",
+            "price": "US$&nbsp;175.00",
+            "weight": "7,602g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/97/073/M_p0160007397.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Advanced Snail 96 Mucin Power Essence (x60) (Bulk Box)",
+            "price": "US$&nbsp;420.00",
+            "weight": "10,560g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/246/M_p0183624648.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Advanced Snail 92 All In One Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;475.00",
+            "weight": "10,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/82/253/M_p0183625382.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Oil Free Ultra Moisturizing Lotion with Birch Sap (x60) (Bulk Box)",
+            "price": "US$&nbsp;475.00",
+            "weight": "10,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/33/168/M_p0183616833.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Advanced Snail Peptide Eye Cream (x80) (Bulk Box)",
+            "price": "US$&nbsp;825.00",
+            "weight": "5,920g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/955/M_p0183695502.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Hyaluronic Acid Hydra Power Essence (x60) (Bulk Box)",
+            "price": "US$&nbsp;460.00",
+            "weight": "10,560g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/41/253/M_p0183625341.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - AC Collection Blemish Spot Clearing Serum (x35) (Bulk Box)",
+            "price": "US$&nbsp;360.00",
+            "weight": "5,075g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/66/383/M_p0202138366.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 21 days"
+        },
+        {
+            "name": "COSRX - AC Collection Calming Foam Cleanser (x45) (Bulk Box)",
+            "price": "US$&nbsp;245.00",
+            "weight": "8,325g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/68/383/M_p0202138368.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 21 days"
+        },
+        {
+            "name": "Beauty of Joseon - Relief Sun (x120) (Bulk Box)",
+            "price": "US$&nbsp;980.00",
+            "weight": "8,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/21/337/M_p0184633721.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         },
@@ -25,17 +105,329 @@
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Anua - Heartleaf Quercetinol Pore Deep Cleansing Foam (x40) (Bulk Box)",
-            "price": "US$&nbsp;190.00",
+            "name": "Beauty of Joseon - Calming Serum (x100) (Bulk Box)",
+            "price": "US$&nbsp;770.00",
             "weight": "8,000g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/77/817/M_p0191881777.jpg",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/08/828/M_p0187982808.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum (x100) (Bulk Box)",
+            "price": "US$&nbsp;655.00",
+            "weight": "8,000g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/70/954/M_p0183695470.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Glow Serum (x100) (Bulk Box)",
+            "price": "US$&nbsp;770.00",
+            "weight": "7,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/24/911/M_p0181991124.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Artichoke Intensive Skin Barrier Ampoule (x80) (Bulk Box)",
+            "price": "US$&nbsp;590.00",
+            "weight": "11,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/78/954/M_p0183695478.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - The Hyaluronic Acid 3 Serum (x40) (Bulk Box)",
+            "price": "US$&nbsp;380.00",
+            "weight": "5,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/55/346/M_p0184634655.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - The Vitamin C 23 Serum (x40) (Bulk Box)",
+            "price": "US$&nbsp;380.00",
+            "weight": "4,520g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/76/346/M_p0184634676.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Aloe Soothing Sun Cream (x96) (Bulk Box)",
+            "price": "US$&nbsp;510.00",
+            "weight": "7,200g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/23/121/M_p0183612123.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Red Bean Refreshing Pore Mask (x72) (Bulk Box)",
+            "price": "US$&nbsp;630.00",
+            "weight": "18,720g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/18/916/M_p0184191618.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Quinoa One Step Balanced Gel Cleanser (x60) (Bulk Box)",
+            "price": "US$&nbsp;445.00",
+            "weight": "14,820g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/69/728/M_p0184272869.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Abib - Quick Sunstick Protection Bar (x20) (Bulk Box)",
+            "price": "US$&nbsp;168.00",
+            "weight": "1,300g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/51/367/M_p0185936751.jpg",
+            "quantity": 5,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;901.33",
+            "weight": "10,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/37/975/M_p0208497537.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Serum (x72) (Bulk Box)",
+            "price": "US$&nbsp;973.43",
+            "weight": "10,080g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/32/975/M_p0208497532.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Toner (x48) (Bulk Box)",
+            "price": "US$&nbsp;672.99",
+            "weight": "10,800g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/29/975/M_p0208497529.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Dear, Klairs - Midnight Blue Calming Cream LARGE (x50) (Bulk Box)",
+            "price": "US$&nbsp;540.00",
+            "weight": "4,550g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/33/865/M_p0192886533.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Low pH Niacinamide Micellar Cleansing Water (x30) (Bulk Box)",
+            "price": "US$&nbsp;215.00",
+            "weight": "13,530g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/12/595/M_p0195059512.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Beta Panthenol Repair Gel Cleanser (x50) (Bulk Box)",
+            "price": "US$&nbsp;390.00",
+            "weight": "8,850g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/96/222/M_p0195522296.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Beta Panthenol Repair Cream (x100) (Bulk Box)",
+            "price": "US$&nbsp;945.00",
+            "weight": "12,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/223/M_p0195522302.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Yuja Niacin Brightening All-In-One Cleanser (x50) (Bulk Box)",
+            "price": "US$&nbsp;345.00",
+            "weight": "7,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/80/900/M_p0197290080.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - The 6 Peptide Skin Booster (x60) (Bulk Box)",
+            "price": "US$&nbsp;575.00",
+            "weight": "13,080g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/71/863/M_p0198486371.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Retinol Intense Advanced Triple Action Eye Cream (x100) (Bulk Box)",
+            "price": "US$&nbsp;870.00",
+            "weight": "4,700g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/46/204/M_p0210020446.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Retinol Intense Reactivating Serum (x100) (Bulk Box)",
+            "price": "US$&nbsp;1,105.00",
+            "weight": "8,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/87/526/M_p0204852687.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Vegan Collagen Eye Serum (x200) (Bulk Box)",
+            "price": "US$&nbsp;1,545.00",
+            "weight": "7,800g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Anua - Niacinamide 10% + TXA 4% Serum (x54) (Bulk Box)",
+            "price": "US$&nbsp;530.00",
+            "weight": "7,776g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/09/609/M_p0205860909.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Cica Peptide Anti Hair Loss Derma Scalp Tonic (x50) (Bulk Box)",
+            "price": "US$&nbsp;360.00",
+            "weight": "9,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/34/904/M_p0206990434.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - V10 Hyal Air Fit Sunscreen (x100) (Bulk Box)",
+            "price": "US$&nbsp;830.00",
+            "weight": "7,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/27/964/M_p0206996427.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "APLB - Glutathione Niacinamide Facial Cream (x96) (Bulk Box)",
+            "price": "US$&nbsp;414.72",
+            "weight": "9,984g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/94/372/M_p0207237294.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "APLB - Glutathione Niacinamide Body Lotion (x32) (Bulk Box)",
+            "price": "US$&nbsp;138.24",
+            "weight": "11,712g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/29/387/M_p0207238729.jpg",
+            "quantity": 4,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - V10 Hyal Lip Sun Protector - 2 Colors (x100) (Bulk Box)",
+            "price": "US$&nbsp;420.00",
+            "weight": "1,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/785/M_p0208178516.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - V10 Hyal Lip Sun Protector - 2 Colors (x100) (Bulk Box)",
+            "price": "US$&nbsp;420.00",
+            "weight": "1,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/17/785/M_p0208178517.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - Ultra Light Invisible Sunscreen (x40) (Bulk Box)",
+            "price": "US$&nbsp;245.00",
+            "weight": "2,960g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/39/432/M_p0208243239.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "COSRX - The Vitamin C 13 Serum (x40) (Bulk Box)",
+            "price": "US$&nbsp;295.00",
+            "weight": "4,960g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/61/432/M_p0208243261.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Truecica Aqua Calming Sun Cream (x100) (Bulk Box)",
+            "price": "US$&nbsp;780.00",
+            "weight": "7,300g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/51/803/M_p0208580351.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 21 days"
+        },
+        {
+            "name": "Beauty of Joseon - Ground Rice and Honey Glow Mask (x20) (Bulk Box)",
+            "price": "US$&nbsp;165.00",
+            "weight": "5,920g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/71/118/M_p0208911871.jpg",
+            "quantity": 3,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Glow Replenishing Rice Milk (x40) (Bulk Box)",
+            "price": "US$&nbsp;330.00",
+            "weight": "10,720g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/20/119/M_p0208911920.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Cica Peptide Anti Hair Loss Derma Scalp Treatment (x100) (Bulk Box)",
+            "price": "US$&nbsp;330.00",
+            "weight": "7,100g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/48/148/M_p0209014848.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - Super Matcha Pore Clean Cleansing Gel (x50) (Bulk Box)",
+            "price": "US$&nbsp;345.00",
+            "weight": "7,100g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/94/676/M_p0209667694.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Anua - 8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser (x40) (Bulk Box)",
+            "price": "US$&nbsp;190.00",
+            "weight": "8,280g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/38/427/M_p0209742738.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Sunscreen (x140) (Bulk Box)",
+            "price": "US$&nbsp;1,892.78",
+            "weight": "10,920g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/17/286/M_p0213328617.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 21 days"
+        },
+        {
+            "name": "AXIS - Y - Glow Your Own Way Beauty Box (x20) (Bulk Box)",
+            "price": "US$&nbsp;445.00",
+            "weight": "10,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/61/621/M_p0213662161.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "SOME BY MI - 30 Days Miracle Clear Spot Patch Bundle Set",
+            "price": "US$&nbsp;9.64",
+            "weight": "40g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/99/857/M_p0215185799.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "19.1kg",
-        "Ex_shipping": "US$\u00c2\u00a0172.50",
-        "St_shipping": "US$\u00c2\u00a0211.50"
+        "bag_weight": "652.361kg",
+        "Ex_shipping": "US$\u00c2\u00a016,329.50",
+        "St_shipping": ""
     }
 }
