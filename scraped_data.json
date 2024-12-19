@@ -1,11 +1,11 @@
 {
     "products": [
         {
-            "name": "COSRX - Aloe Soothing Sun Cream (x48) (Bulk Box)",
-            "price": "US$&nbsp;264.00",
-            "weight": "3,600g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/03/678/M_p0161867803.jpg",
-            "quantity": 3,
+            "name": "Beauty of Joseon - Relief Sun (x120) (Bulk Box)",
+            "price": "US$&nbsp;980.00",
+            "weight": "8,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/21/337/M_p0184633721.jpg",
+            "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
@@ -29,6 +29,14 @@
             "price": "US$&nbsp;901.33",
             "weight": "10,500g",
             "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/37/975/M_p0208497537.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Toner (x48) (Bulk Box)",
+            "price": "US$&nbsp;672.99",
+            "weight": "10,800g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/29/975/M_p0208497529.jpg",
             "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         },
@@ -41,11 +49,27 @@
             "availability": "Usually ships within 1 to 2 days"
         },
         {
+            "name": "SOME BY MI - Beta Panthenol Repair Cream (x100) (Bulk Box)",
+            "price": "US$&nbsp;945.00",
+            "weight": "12,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/02/223/M_p0195522302.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
             "name": "AXIS - Y - Vegan Collagen Eye Serum (x200) (Bulk Box)",
             "price": "US$&nbsp;1,545.00",
             "weight": "7,800g",
             "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
             "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Anua - Niacinamide 10% + TXA 4% Serum (x54) (Bulk Box)",
+            "price": "US$&nbsp;530.00",
+            "weight": "7,776g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/09/609/M_p0205860909.jpg",
+            "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
@@ -58,8 +82,8 @@
         }
     ],
     "bag_details": {
-        "bag_weight": "89.26kg",
-        "Ex_shipping": "US$\u00c2\u00a02,254.50",
+        "bag_weight": "125.912kg",
+        "Ex_shipping": "US$\u00c2\u00a03,154.50",
         "St_shipping": ""
     }
 }
