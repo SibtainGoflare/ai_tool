@@ -1,33 +1,41 @@
 {
     "products": [
         {
-            "name": "Anua - Heartleaf Pore Control Cleansing Oil (x48) (Bulk Box)",
-            "price": "US$&nbsp;320.00",
-            "weight": "11,424g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/13/126/M_p0206012613.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Anua - Heartleaf Pore Control Cleansing Oil Mini (x100) (Bulk Box)",
+            "name": "Anua - Heartleaf 77% Soothing Toner (x20) (Bulk Box)",
             "price": "US$&nbsp;170.00",
-            "weight": "3,400g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/21/126/M_p0206012621.jpg",
+            "weight": "6,340g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/55/625/M_p0200862555.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "SOME BY MI - Retinol Intense Advanced Triple Action Eye Cream (x100) (Bulk Box)",
-            "price": "US$&nbsp;870.00",
-            "weight": "4,700g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/46/204/M_p0210020446.jpg",
+            "name": "Beauty of Joseon - Relief Sun (x20) (Bulk Box)",
+            "price": "US$&nbsp;168.00",
+            "weight": "1,400g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/18/337/M_p0184633718.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Beauty of Joseon - Revive Eye Serum (x60) (Bulk Box)",
+            "price": "US$&nbsp;477.00",
+            "weight": "3,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Anua - Heartleaf Quercetinol Pore Deep Cleansing Foam (x40) (Bulk Box)",
+            "price": "US$&nbsp;190.00",
+            "weight": "8,000g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/77/817/M_p0191881777.jpg",
             "quantity": 1,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "19.524kg",
-        "Ex_shipping": "US$\u00c2\u00a0172.50",
-        "St_shipping": "US$\u00c2\u00a0211.50"
+        "bag_weight": "19.1kg",
+        "Ex_shipping": "US$\u00c2\u00a0504.50",
+        "St_shipping": ""
     }
 }
