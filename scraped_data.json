@@ -1,41 +1,65 @@
 {
     "products": [
         {
-            "name": "Anua - Heartleaf 77% Soothing Toner (x20) (Bulk Box)",
-            "price": "US$&nbsp;170.00",
-            "weight": "6,340g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/55/625/M_p0200862555.jpg",
+            "name": "COSRX - Aloe Soothing Sun Cream (x48) (Bulk Box)",
+            "price": "US$&nbsp;264.00",
+            "weight": "3,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/03/678/M_p0161867803.jpg",
             "quantity": 3,
             "availability": "Usually ships within 1 to 2 days"
         },
         {
-            "name": "Beauty of Joseon - Relief Sun (x20) (Bulk Box)",
-            "price": "US$&nbsp;168.00",
-            "weight": "1,400g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/18/337/M_p0184633718.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Beauty of Joseon - Revive Eye Serum (x60) (Bulk Box)",
-            "price": "US$&nbsp;477.00",
-            "weight": "3,360g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/75/693/M_p0184669375.jpg",
-            "quantity": 1,
-            "availability": "Usually ships within 1 to 2 days"
-        },
-        {
-            "name": "Anua - Heartleaf Quercetinol Pore Deep Cleansing Foam (x40) (Bulk Box)",
-            "price": "US$&nbsp;190.00",
+            "name": "AXIS - Y - Dark Spot Correcting Glow Serum (x100) (Bulk Box)",
+            "price": "US$&nbsp;655.00",
             "weight": "8,000g",
-            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/77/817/M_p0191881777.jpg",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/70/954/M_p0183695470.jpg",
             "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Artichoke Intensive Skin Barrier Ampoule (x80) (Bulk Box)",
+            "price": "US$&nbsp;590.00",
+            "weight": "11,360g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/78/954/M_p0183695478.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "I'm from - Rice Cream (x60) (Bulk Box)",
+            "price": "US$&nbsp;901.33",
+            "weight": "10,500g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/37/975/M_p0208497537.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "Dear, Klairs - Midnight Blue Calming Cream LARGE (x50) (Bulk Box)",
+            "price": "US$&nbsp;540.00",
+            "weight": "4,550g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/33/865/M_p0192886533.jpg",
+            "quantity": 2,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Vegan Collagen Eye Serum (x200) (Bulk Box)",
+            "price": "US$&nbsp;1,545.00",
+            "weight": "7,800g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/16/696/M_p0205769616.jpg",
+            "quantity": 1,
+            "availability": "Usually ships within 1 to 2 days"
+        },
+        {
+            "name": "AXIS - Y - Glow Your Own Way Beauty Box (x20) (Bulk Box)",
+            "price": "US$&nbsp;445.00",
+            "weight": "10,600g",
+            "image_url": "https://d1flfk77wl2xk4.cloudfront.net/Assets/61/621/M_p0213662161.jpg",
+            "quantity": 2,
             "availability": "Usually ships within 1 to 2 days"
         }
     ],
     "bag_details": {
-        "bag_weight": "19.1kg",
-        "Ex_shipping": "US$\u00c2\u00a0172.50",
-        "St_shipping": "US$\u00c2\u00a0211.50"
+        "bag_weight": "89.26kg",
+        "Ex_shipping": "US$\u00c2\u00a02,254.50",
+        "St_shipping": ""
     }
 }
